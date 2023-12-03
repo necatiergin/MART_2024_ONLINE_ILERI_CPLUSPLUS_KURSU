@@ -16,7 +16,7 @@ Bireysel katılımcılar için kurs ücretine KDV dahildir.
 Kurumsal katılımlarda kurs ücretine __%18 KDV__ ilave edilecektir. 
 
 ## Ders Günleri ve Saatleri
-Dersler __Cumartesi ve Pazar__ günleri __19.30 – 22.30__ saatleri arasında __3’er saat__ olarak yapılacaktır. <br>
+Dersler __Pazartesi ve Çarşamba__ günleri __19.30 – 22.30__ saatleri arasında __3’er saat__ olarak yapılacaktır. <br>
 Öğrenciler kaçırdıkları ya da tekrar etmek istedikleri dersleri belirli koşullar dahilinde kurs sistemimiz üzerinden izleyebilirler.
 
 ## Ön Koşul
