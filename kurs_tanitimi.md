@@ -1,7 +1,7 @@
 # Online İleri C++ Kursu (Advanced C++)
 
 + Bu kurs __Plepa Eğitim Hizmetleri__ tarafından düzenlenmektedir.
-+ Kurs __22 Ocak 2024 Cumartesi__ günü başlayacaktır.
++ Kurs __22 Ocak 2024 Pazartesi__ günü başlayacaktır.
 + Bu kurs C++ dilini ve dilin standart kütüphanesini temel düzeyde öğrenmiş programcıların bilgilerini pekiştirmeyi, ileri düzey sayılabilecek konuları, araçları, teknikleri çok iyi öğrenmelerini ve yazılım üretiminde bu araçları kullanma becerisi edinmelerini hedeflemektedir.
 + Kurs _C++_ programcılarını daha üst bir seviyeye taşıyacak, onları yeni tekniklerle ve C++17/20/23 gelen araçlar ve kütüphane öğeleri ile tanıştıracak, onların bilgi ve beceri düzeylerini arttıracak şekilde tasarlanmıştır.
 + Kursta __C++20__ ve __C++23__ standartları ile dile eklenen önemli araçlar ve standart kütüphane öğeleri de ayrıntılı olarak anlatılmaktadır.
@@ -13,7 +13,7 @@
 ## Kurs Ücreti
 + Kursun toplam ücreti __20.000 TL__'dir. Öğrenci olanlar için kurs ücreti __18.000__ TL'dir. 
 Bireysel katılımcılar için kurs ücretine KDV dahildir. 
-Kurumsal katılımlarda kurs ücretine __%18 KDV__ ilave edilecektir. 
+Kurumsal katılımlarda kurs ücretine __%20 KDV__ ilave edilecektir. 
 
 ## Ders Günleri ve Saatleri
 Dersler __Pazartesi ve Çarşamba__ günleri __19.30 – 22.30__ saatleri arasında __3’er saat__ olarak yapılacaktır. <br>
