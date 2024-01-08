@@ -14,6 +14,7 @@
 + Kursun toplam ücreti __20.000 TL__'dir. Öğrenci olanlar için kurs ücreti __18.000__ TL'dir. 
 Bireysel katılımcılar için kurs ücretine KDV dahildir. 
 Kurumsal katılımlarda kurs ücretine __%20 KDV__ ilave edilecektir. 
+Bireysel katılımcılar kurs ücretini 2 taksit olarak ödeyebilirler.
 
 ## Ders Günleri ve Saatleri
 Dersler __Pazartesi ve Çarşamba__ günleri __19.30 – 22.30__ saatleri arasında __3’er saat__ olarak yapılacaktır. <br>
