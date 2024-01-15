@@ -1,6 +1,6 @@
 ## Online İleri C++ (Advanced C++) Kursu
 
-🎯 Bu kursun amacı C++ programcılarını daha üst bir seviyeye taşımak, onları yeni idiyomlar, örüntüler ve teknikler, C++17/20/23 gelen araçlar ve kütüphane öğeleri ile tanıştırmak, onların bilgi ve beceri düzeylerini arttırmaktır. 
+🎯 Bu kursun amacı C++ programcılarını daha üst bir seviyeye taşımak, onları yeni idiyomlar, örüntüler ve teknikler, C++17/20/23 ile gelen araçlar ve kütüphane öğeleri ile tanıştırmak, onların bilgi ve beceri düzeylerini arttırmaktır. 
 
 🏫 Bu kurs _Plepa Eğitim Hizmetleri_ tarafından düzenlenmektedir.<br><br>
 
