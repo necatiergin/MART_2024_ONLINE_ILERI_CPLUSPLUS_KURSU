@@ -23,7 +23,7 @@
 &#128279; [Kurs İçeriği](https://github.com/necatiergin/KURS_PROGRAMLARI/blob/main/ileri_cplusplus.md)<br>
 &#128279; [Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZYvduyprj0tEtwGkCGjvMAnPBYGP1mngRiX)
 
-<--!
+<!--
 ![kurs tanıtım görseli](https://github.com/necatiergin/OCAK_2024_ONLINE_ILERI_CPLUSPLUS_KURSU/blob/main/ileri_cpp_kurs_gorseli.png)
 >
 
