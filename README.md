@@ -8,7 +8,7 @@
 
 👨 [Necati Ergin Youtube kanalı](https://www.youtube.com/@necatiergin)<br><br>
 
-📅 Kurs __22 Ocak 2024 Pazartesi__ günü başlayacaktır. <br><br>
+📅 Kurs __25 Mart 2024 Pazartesi__ günü başlayacaktır. <br><br>
 
 ⏰ Dersler __Pazartesi ve Çarşamba__ günleri __19:30 - 22.30__ saatleri arasında yapılacaktır.<br><br>
 
